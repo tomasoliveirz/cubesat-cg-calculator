@@ -249,8 +249,8 @@ class SateliteApp:
         self.var_solar_height = tk.DoubleVar(value=105.0)
         self.var_antenna_mass = tk.DoubleVar(value=90.0)
         self.var_antenna_height = tk.DoubleVar(value=105.0)
-  python3 satelite_gui.py
 
+        # Chassis
         self.var_chassis_mass = tk.DoubleVar(value=120.0)
         self.var_chassis_height = tk.DoubleVar(value=48.0)
 
